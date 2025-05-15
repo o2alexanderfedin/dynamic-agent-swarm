@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "LocalClaudeSwarm",
+      "command": "./start-claude.sh",
+      "workingDirectory": "/Users/alexanderfedin/Projects/forex-models",
+      "timeout": 30000,
+      "scope": "project"
+    }
+  ]
+}
