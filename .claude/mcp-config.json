@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "LocalClaudeSwarm",
+      "name": "Jarvis",
       "command": "./start-claude.sh",
       "workingDirectory": "/Users/alexanderfedin/Projects/forex-models",
       "timeout": 30000,
